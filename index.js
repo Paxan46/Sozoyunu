@@ -14,9 +14,9 @@ bot.start(ctx => {
       0x2753
     )} Botu necə işlətməli olduğunuzu öyrənmək istəyirsinizsə /help yazın.\n\n${String.fromCodePoint(
       0x00a9
-    )} Bot @lucifer25x tərəfindən yaradılıb.\n${String.fromCodePoint(
+    )} Bot @Fariz_hesenof tərəfindən yaradılıb.\n${String.fromCodePoint(
       0x1f4ee
-    )} Kanal:@lucifer25x1`
+    )} Kanal:@Black_stagram`
   );
 });
 
